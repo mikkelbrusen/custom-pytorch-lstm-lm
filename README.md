@@ -1,4 +1,4 @@
-# Language Model Using a Custom Build LSTM [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/deepbedmap/)
+# Language Model Using a Custom Build LSTM [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1luim4qegwBeKVAAzW-XarPSCOhogiBQf)
 This repository contains a custom implementation of a Language Model using a custom LSTM built within the PyTorch framework.
 
 This custom LSTM was built as part of a project in the course 02456 Deep Learning @ DTU - Technical University of Denmark
